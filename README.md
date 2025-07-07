@@ -6,6 +6,10 @@ This dashboard visualizes insights from a direct marketing campaign dataset cond
 - Full dataset: `bank-full.csv` (45,211 records)
 - Objective: Predict whether a client will subscribe to a term deposit (`y`: yes/no)
 
+## 📸Preview
+![Dashboard](https://github.com/user-attachments/assets/1a083543-0afe-4a13-a1e7-9e0631118a33)
+
+
 ## 📈 Dashboard Features
 - Total Contacts: 125K
 - Clients Contacted: 45K
