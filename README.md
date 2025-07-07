@@ -27,10 +27,9 @@ This dashboard visualizes insights from a direct marketing campaign dataset cond
 
 ## 💡 Business Recommendations
 1. **Refine Targeting**: Focus on professions like *management* and *technicians* which have higher conversion potential than blue-collar roles.
-2. **Smart Timing**: Increase campaigns in **May–June**, when engagement seems highest.
-3. **Leverage Previous Success**: Clients previously contacted with *"success"* outcomes are more likely to subscribe. Re-target this segment.
-4. **Optimize Call Resources**: Reduce contact attempts to profiles with high failure history from previous campaigns.
-5. **Cross-Sell Products**: Use data on clients with loans or housing to tailor related product offers.
+2. **Leverage Previous Success**: Clients previously contacted with *"success"* outcomes are more likely to subscribe. Re-target this segment.
+3. **Optimize Call Resources**: Reduce contact attempts to profiles with high failure history from previous campaigns.
+4. **Cross-Sell Products**: Use data on clients with loans or housing to tailor related product offers.
 
 
 
